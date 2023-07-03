@@ -69,25 +69,25 @@
     "testimonials":[
         {
             "id":1,
-            "image":"",
+            "image":"https://i.postimg.cc/c4SfYNtR/C12-C2-Codi-Kader.jpg",
             "name":"Cody Kader",
             "testimonial":"Amy is a determined and passionate web developer with a kind demeanor.She excels in delivering high-quality work and collaborates seamlessly in both team and individual settings. With strong skills in HTML,CSS and Javascript, she willingly supports her peers, fostering a positive and productive work environment"
         },
         {
             "id":2,
-            "image":"",
+            "image":"https://i.postimg.cc/QMH7s8v3/C12-Abdoelmaaliek-Samaai.jpg",
             "name":"Abdoelmaalik Samaai",
             "testimonial":"She is an exceptionally compassionate, kind-hearted, and caring individual, attributes that greatly contribute to her success in web development. With a determined focus on her goals, she consistently exhibits a strong work ethic. She excels in problem-solving, persistently seeking innovative solutions. She fearlessly seeks advice when needed and consistently strives for self improvement. Punctuality is of utmost importance to her, and she consistently puts forth her best effort in all endeavors"
         },
         {
             "id":3,
-            "image":"",
+            "image":"https://i.postimg.cc/R0R7CpZ7/C12-C2-Kgodisho-Lebopa.jpg",
             "name":"Kgodisho Lebopa",
             "testimonial":"I have been impressed by Amy's commitment to learning and growing as a coder. She has a natural talent for problem-solving and has already demonstrated proficiency in the work she does. I highly recommend Amy to any organization seeking a motivated developer."
         },
         {
             "id":4,
-            "image":"",
+            "image":"https://i.postimg.cc/JnYjZyJt/C12-C2-Kamvelihle-Sikalana.jpg",
             "name":"Kamvelihle Sikalana",
             "testimonial":"Amy is proficient in HTML, CSS and JavaScript. She is a reliable and good team player in group related projects, and has a hunger to learn more"
         },
