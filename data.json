@@ -1,0 +1,107 @@
+{
+    "resume":[
+        {
+            "id":1,
+            "title":"Harry Potter and the Philosopher's Stone",
+            "author":"J.K Rowling"
+        },
+        {
+            "id":2,
+            "title":"To Kill a Mockingbird",
+            "author":"Harper Lee"
+        },
+        {
+            "id":3,
+            "title":"1984",
+            "author":"George Orwell"
+        },
+        {
+            "id":4,
+            "title":"1984",
+            "author":"George Orwell"
+        }
+    ],
+    "projects":[
+        {
+            "id":1,
+            "image":"",
+            "title":"Calculator Website",
+            "description":"J.K Rowling",
+            "technologies":"HTML,CSS,JavaScript"
+        },
+        {
+            "id":2,
+            "image":"",
+            "title":"Calculator Website",
+            "description":"J.K Rowling",
+            "technologies":"HTML,CSS,JavaScript"
+
+        },
+        {
+            "id":3,
+            "image":"",
+            "title":"Calculator Website",
+            "description":"J.K Rowling",
+            "technologies":"HTML,CSS,JavaScript"
+        },
+        {
+            "id":4,
+            "image":"",
+            "title":"Calculator Website",
+            "description":"J.K Rowling",
+            "technologies":"HTML,CSS,JavaScript"
+        },
+        {
+            "id":5,
+            "image":"",
+            "title":"Calculator Website",
+            "description":"J.K Rowling",
+            "technologies":"HTML,CSS,JavaScript"
+        },
+        {
+            "id":6,
+            "image":"",
+            "title":"Calculator Website",
+            "description":"J.K Rowling",
+            "technologies":"HTML,CSS,JavaScript"
+        }
+    ],
+    "testimonials":[
+        {
+            "id":1,
+            "image":"",
+            "name":"Cody Kader",
+            "testimonial":"Amy is a determined and passionate web developer with a kind demeanor.She excels in delivering high-quality work and collaborates seamlessly in both team and individual settings. With strong skills in HTML,CSS and Javascript, she willingly supports her peers, fostering a positive and productive work environment"
+        },
+        {
+            "id":2,
+            "image":"",
+            "name":"Abdoelmaalik Samaai",
+            "testimonial":"She is an exceptionally compassionate, kind-hearted, and caring individual, attributes that greatly contribute to her success in web development. With a determined focus on her goals, she consistently exhibits a strong work ethic. She excels in problem-solving, persistently seeking innovative solutions. She fearlessly seeks advice when needed and consistently strives for self improvement. Punctuality is of utmost importance to her, and she consistently puts forth her best effort in all endeavors"
+        },
+        {
+            "id":3,
+            "image":"",
+            "name":"Kgodisho Lebopa",
+            "testimonial":"I have been impressed by Amy's commitment to learning and growing as a coder. She has a natural talent for problem-solving and has already demonstrated proficiency in the work she does. I highly recommend Amy to any organization seeking a motivated developer."
+        },
+        {
+            "id":4,
+            "image":"",
+            "name":"Kamvelihle Sikalana",
+            "testimonial":"Amy is proficient in HTML, CSS and JavaScript. She is a reliable and good team player in group related projects, and has a hunger to learn more"
+        },
+        {
+            "id":5,
+            "image":"",
+            "name":"J.K Rowling",
+            "testimonial":""
+        },
+        {
+            "id":6,
+            "image":"",
+            "name":"J.K Rowling",
+            "testimonial":""
+        }
+    ]
+}
