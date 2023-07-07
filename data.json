@@ -30,7 +30,7 @@
             "id":1,
             "image":"https://i.postimg.cc/RFz5z17p/Screenshot-2023-07-05-092017.png",
             "title":"Calculator Website",
-            "technologies":"HTML,CSS,JavaScript",
+            "technologies":"HTML, CSS, JavaScript",
             "githubLink":"https://github.com/AmyPieterse/calculator.git",
             "netlifyLink":"https://amycalculator.netlify.app/"
         },
@@ -38,7 +38,7 @@
             "id":2,
             "image":"https://i.postimg.cc/dV3KRmmg/Screenshot-2023-07-05-092104.png",
             "title":"BMI calculator Website",
-            "technologies":"HTML,CSS,JavaScript",
+            "technologies":"HTML, CSS, JavaScript",
             "githubLink":"https://github.com/AmyPieterse/bmiCalculator.git",
             "netlifyLink":"https://lovely-biscuit-cca5e1.netlify.app/"
 
@@ -47,7 +47,7 @@
             "id":3,
             "image":"https://i.postimg.cc/C1gVjj6p/Screenshot-2023-07-05-115410.png",
             "title":"E-commerce website",
-            "technologies":"HTML,CSS,Bootstrap,JavaScript",
+            "technologies":"HTML, CSS, Bootstrap, JavaScript",
             "githubLink":"https://github.com/AmyPieterse/javascript-eomp.git",
             "netlifyLink":"https://watchco-ecommerce.netlify.app/"
         },
@@ -55,6 +55,7 @@
             "id":4,
             "image":"https://i.postimg.cc/XJsyZcnQ/to-do-list.png",
             "title":"To Do List",
+            "technologies":"HTML, CSS, JavaScript",
             "githubLink":"https://github.com/AmyPieterse/todoList.git",
             "netlifyLink":"https://fascinating-shortbread-d29972.netlify.app/"
         },
@@ -62,7 +63,6 @@
             "id":5,
             "image":"",
             "title":"Weather App",
-            "description":"",
             "technologies":"HTML,CSS,JavaScript",
             "githubLink":"",
             "netlifyLink":""
@@ -71,7 +71,6 @@
             "id":6,
             "image":"",
             "title":"Expense Tracker",
-            "description":"",
             "technologies":"HTML,CSS,JavaScript",
             "githubLink":"",
             "netlifyLink":""
