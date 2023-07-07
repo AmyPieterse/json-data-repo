@@ -2,23 +2,27 @@
     "resume":[
         {
             "id":1,
-            "title":"Harry Potter and the Philosopher's Stone",
-            "author":"J.K Rowling"
+            "year":"2023",
+            "place":"Life Choices Coding Academy",
+            "work":"Currently attending a bootcamp in web development"
         },
         {
             "id":2,
-            "title":"To Kill a Mockingbird",
-            "author":"Harper Lee"
+            "year":"2019",
+            "place":"Self Employed",
+            "work":"Worked as a Mathematics tutor"
         },
         {
             "id":3,
-            "title":"1984",
-            "author":"George Orwell"
+            "year":"2018",
+            "place":"Spur Steak Ranches",
+            "work":"Worked as a waitress"
         },
         {
             "id":4,
-            "title":"1984",
-            "author":"George Orwell"
+            "year":"2017",
+            "place":"Cape Academy of Mathematics, Science and Technology",
+            "work":"Matriculated"
         }
     ],
     "projects":[
@@ -26,7 +30,6 @@
             "id":1,
             "image":"https://i.postimg.cc/RFz5z17p/Screenshot-2023-07-05-092017.png",
             "title":"Calculator Website",
-            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem.",
             "technologies":"HTML,CSS,JavaScript",
             "githubLink":"https://github.com/AmyPieterse/calculator.git",
             "netlifyLink":"https://amycalculator.netlify.app/"
@@ -35,7 +38,6 @@
             "id":2,
             "image":"https://i.postimg.cc/dV3KRmmg/Screenshot-2023-07-05-092104.png",
             "title":"BMI calculator Website",
-            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium.",
             "technologies":"HTML,CSS,JavaScript",
             "githubLink":"https://github.com/AmyPieterse/bmiCalculator.git",
             "netlifyLink":"https://lovely-biscuit-cca5e1.netlify.app/"
@@ -45,7 +47,6 @@
             "id":3,
             "image":"https://i.postimg.cc/C1gVjj6p/Screenshot-2023-07-05-115410.png",
             "title":"E-commerce website",
-            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem.",
             "technologies":"HTML,CSS,Bootstrap,JavaScript",
             "githubLink":"https://github.com/AmyPieterse/javascript-eomp.git",
             "netlifyLink":"https://watchco-ecommerce.netlify.app/"
@@ -54,8 +55,6 @@
             "id":4,
             "image":"https://i.postimg.cc/XJsyZcnQ/to-do-list.png",
             "title":"To Do List",
-            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laboru numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem.",
-            "technologies":"HTML,CSS,JavaScript",
             "githubLink":"https://github.com/AmyPieterse/todoList.git",
             "netlifyLink":"https://fascinating-shortbread-d29972.netlify.app/"
         },
@@ -83,13 +82,13 @@
             "id":1,
             "image":"https://i.postimg.cc/c4SfYNtR/C12-C2-Codi-Kader.jpg",
             "name":"Cody Kader - Peer",
-            "testimonial":"Amy is a determined and passionate web developer with a kind demeanor.She excels in delivering high-quality work and collaborates seamlessly in both team and individual settings. With strong skills in HTML,CSS and Javascript, she willingly supports her peers, fostering a positive and productive work environment"
+            "testimonial":"Amy works well in both teamwork and individual settings. She has strong skills in HTML, CSS and Javascript and she's always willingly to help supports her peers."
         },
         {
             "id":2,
             "image":"https://i.postimg.cc/QMH7s8v3/C12-Abdoelmaaliek-Samaai.jpg",
             "name":"Abdoelmaalik Samaai - Peer",
-            "testimonial":"She is an exceptionally compassionate, kind-hearted, and caring individual, attributes that greatly contribute to her success in web development. With a determined focus on her goals, she consistently exhibits a strong work ethic. She excels in problem-solving, persistently seeking innovative solutions. She fearlessly seeks advice when needed and consistently strives for self improvement."
+            "testimonial":"She is a kind-hearted, and caring person. She is focus on her goals and has a strong work ethic. She is good with problem-solving and persistently seeks innovative solutions. She is also not afraid to ask for advice when needed and consistently strives for self improvement."
         },
         {
             "id":3,
@@ -107,13 +106,13 @@
             "id":5,
             "image":"https://i.postimg.cc/0NqMWhPW/jason.jpg",
             "name":"Jason Viljoen - Peer",
-            "testimonial":"For the 6 months that I have worked with Amy, she has shown a lot of promise in the work place and class setup. Always lending  a helping hand where needed, even having the class lecturer asking her for her help and insight. A very bright individual and ready to take on any task put in front of her."
+            "testimonial":"For the 6 months that I have worked with Amy, she has shown a lot of promise in the work place and class setup. Always lending a helping hand where needed, even having the class lecturer asking her for her help and insight. A very bright individual and ready to take on any task put in front of her."
         },
         {
             "id":6,
             "image":"https://i.postimg.cc/V6B82BRY/Port-Image.jpg",
             "name":"Seth Kallis - Mentor",
-            "testimonial":"Amy is dedicated, hard working and a team player. He works well his peers and performs well on his projects. He has a good understanding of web development and would be a valuable addition to any team that is lucky enough to have him."
+            "testimonial":"Amy is dedicated, hard working and a team player. She works well with her peers and performs well on her projects. She has a good understanding of web development and would be a valuable addition to any team that is lucky enough to have her."
         }
         
     ]
