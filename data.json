@@ -58,22 +58,6 @@
             "technologies":"HTML, CSS, JavaScript",
             "githubLink":"https://github.com/AmyPieterse/todoList.git",
             "netlifyLink":"https://fascinating-shortbread-d29972.netlify.app/"
-        },
-        {
-            "id":5,
-            "image":"",
-            "title":"Weather App",
-            "technologies":"HTML,CSS,JavaScript",
-            "githubLink":"",
-            "netlifyLink":""
-        },
-        {
-            "id":6,
-            "image":"",
-            "title":"Expense Tracker",
-            "technologies":"HTML,CSS,JavaScript",
-            "githubLink":"",
-            "netlifyLink":""
         }
     ],
     "testimonials":[
