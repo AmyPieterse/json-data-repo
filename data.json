@@ -28,7 +28,7 @@
     "projects":[
         {
             "id":1,
-            "image":"https://i.postimg.cc/RFz5z17p/Screenshot-2023-07-05-092017.png",
+            "image":"https://i.postimg.cc/c1wDb3m5/screencapture-amycalculator-netlify-app-2023-10-25-12-47-59-1.png",
             "title":"Calculator Website",
             "technologies":"HTML, CSS, JavaScript",
             "githubLink":"https://github.com/AmyPieterse/calculator.git",
@@ -36,7 +36,7 @@
         },
         {
             "id":2,
-            "image":"https://i.postimg.cc/dV3KRmmg/Screenshot-2023-07-05-092104.png",
+            "image":"https://i.postimg.cc/Hxsy4f6g/screencapture-lovely-biscuit-cca5e1-netlify-app-2023-10-25-12-56-19.png",
             "title":"BMI calculator Website",
             "technologies":"HTML, CSS, JavaScript",
             "githubLink":"https://github.com/AmyPieterse/bmiCalculator.git",
@@ -53,7 +53,7 @@
         },
         {
             "id":4,
-            "image":"https://i.postimg.cc/XJsyZcnQ/to-do-list.png",
+            "image":"https://i.postimg.cc/L4frd5Rh/screencapture-fascinating-shortbread-d29972-netlify-app-2023-10-25-13-01-25.png",
             "title":"To Do List",
             "technologies":"HTML, CSS, JavaScript",
             "githubLink":"https://github.com/AmyPieterse/todoList.git",
