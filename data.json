@@ -28,7 +28,7 @@
     "projects":[
         {
             "id":1,
-            "image":"https://ibb.co/5kHHHTW",
+            "image":"https://i.ibb.co/BGMMMLV/screencapture-amycalculator-netlify-app-2023-10-25-12-47-59-1.png",
             "title":"Calculator Website",
             "description":"I've crafted a functional calculator that embodies user-centric design and intuitive interactions for a seamless mathematical experience.",
             "technologies":"HTML, CSS, JavaScript",
@@ -41,7 +41,7 @@
 
         {
             "id":2,
-            "image":"https://ibb.co/80RrN9z",
+            "image":"https://i.ibb.co/HVMtBqN/screencapture-lovely-biscuit-cca5e1-netlify-app-2023-10-25-12-56-19.png",
             "title":"BMI calculator Website",
             "description":"BMI calculator that facilitating health-conscious individuals in assessing their body mass index effortlessly. It combines elegant design with health insights.",
             "technologies":"HTML, CSS, JavaScript",
@@ -51,7 +51,7 @@
         },
         {
             "id":3,
-            "image":"https://ibb.co/cgGPNXm",
+            "image":"https://i.ibb.co/JRq2DhM/screencapture-localhost-8081-courses-2023-11-03-09-56-39.png",
             "title":"Mathverse",
             "description":"My capstone project is an online mathematics education platform that offers comprehensive learning from preschool to university. It integrates interactive lessons and a unique e-commerce system for course purchases. I've harnessed my passion for mathematics and technical skills to create a user-centric learning experience.",
             "technologies":"HTML, CSS, Bootstrap, JavaScript",
@@ -60,7 +60,7 @@
         },
         {
             "id":4,
-            "image":"https://ibb.co/HDCY5Jk",
+            "image":"https://i.ibb.co/HFW0rpJ/screencapture-fascinating-shortbread-d29972-netlify-app-2023-10-25-13-01-25.png",
             "title":"To Do List",
             "description":"I've created a dynamic to-do list application, enhancing productivity. It empowers users to organize tasks efficiently with a user-friendly interface.",
             "technologies":"HTML, CSS, JavaScript",
