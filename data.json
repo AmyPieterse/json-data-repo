@@ -28,16 +28,20 @@
     "projects":[
         {
             "id":1,
-            "image":"https://i.postimg.cc/c1wDb3m5/screencapture-amycalculator-netlify-app-2023-10-25-12-47-59-1.png",
+            "image":"https://ibb.co/5kHHHTW",
             "title":"Calculator Website",
             "description":"I've crafted a functional calculator that embodies user-centric design and intuitive interactions for a seamless mathematical experience.",
             "technologies":"HTML, CSS, JavaScript",
             "githubLink":"https://github.com/AmyPieterse/calculator.git",
             "Link":"https://amycalculator.netlify.app/"
         },
+        
+
+
+
         {
             "id":2,
-            "image":"https://i.postimg.cc/Hxsy4f6g/screencapture-lovely-biscuit-cca5e1-netlify-app-2023-10-25-12-56-19.png",
+            "image":"https://ibb.co/80RrN9z",
             "title":"BMI calculator Website",
             "description":"BMI calculator that facilitating health-conscious individuals in assessing their body mass index effortlessly. It combines elegant design with health insights.",
             "technologies":"HTML, CSS, JavaScript",
@@ -47,7 +51,7 @@
         },
         {
             "id":3,
-            "image":"https://i.postimg.cc/pLfgMt1Z/screencapture-localhost-8081-courses-2023-11-03-09-56-39.png",
+            "image":"https://ibb.co/cgGPNXm",
             "title":"Mathverse",
             "description":"My capstone project is an online mathematics education platform that offers comprehensive learning from preschool to university. It integrates interactive lessons and a unique e-commerce system for course purchases. I've harnessed my passion for mathematics and technical skills to create a user-centric learning experience.",
             "technologies":"HTML, CSS, Bootstrap, JavaScript",
@@ -56,7 +60,7 @@
         },
         {
             "id":4,
-            "image":"https://i.postimg.cc/L4frd5Rh/screencapture-fascinating-shortbread-d29972-netlify-app-2023-10-25-13-01-25.png",
+            "image":"https://ibb.co/HDCY5Jk",
             "title":"To Do List",
             "description":"I've created a dynamic to-do list application, enhancing productivity. It empowers users to organize tasks efficiently with a user-friendly interface.",
             "technologies":"HTML, CSS, JavaScript",
