@@ -2,21 +2,27 @@
     "resume":[
         {
             "id":1,
-            "year":"2023",
+            "year":"April 2023 - Septempber 2023",
             "place":"Life Choices Coding Academy",
-            "work":"Currently attending a bootcamp in web development"
+            "work":"Attended a bootcamp for Fullstack Web Development"
         },
         {
             "id":2,
-            "year":"2019",
+            "year":"2019-2022",
             "place":"Self Employed",
             "work":"Worked as a Mathematics tutor"
         },
         {
             "id":3,
-            "year":"2018",
+            "year":"January 2018 - June 2018",
             "place":"Spur Steak Ranches",
-            "work":"Worked as a waitress"
+            "work":"Waitress"
+        },
+        {
+            "id":4,
+            "year":"2018-2021",
+            "place":"University of South Africa",
+            "work":"Diploma in law"
         },
         {
             "id":4,
