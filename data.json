@@ -2,30 +2,36 @@
     "resume":[
         {
             "id":1,
-            "year":"April 2023 - September 2023",
-            "place":"Life Choices Coding Academy",
-            "work":"Attended a bootcamp for Fullstack Web Development"
+            "year":"March 2024 - Present",
+            "place":"Innovo Networks",
+            "work":"Worked as an IT intern and then promoted to Software Developer role"
         },
         {
             "id":2,
+            "year":"April 2023 - February 2024",
+            "place":"Life Choices Studio",
+            "work":"Attended the bootcamp for Fullstack Web Development and became an intern for the organisation"
+        },
+        {
+            "id":3,
             "year":"2019-2022",
             "place":"Self Employed",
             "work":"Worked as a Mathematics tutor"
         },
         {
-            "id":3,
+            "id":4,
             "year":"January 2018 - June 2018",
             "place":"Spur Steak Ranches",
             "work":"Waitress"
         },
         {
-            "id":4,
+            "id":5,
             "year":"2018-2021",
             "place":"University of South Africa",
             "work":"Diploma in law"
         },
         {
-            "id":5,
+            "id":6,
             "year":"2017",
             "place":"Cape Academy of Mathematics, Science and Technology",
             "work":"Matriculated"
@@ -41,10 +47,6 @@
             "githubLink":"https://github.com/AmyPieterse/calculator.git",
             "Link":"https://amycalculator.netlify.app/"
         },
-        
-
-
-
         {
             "id":2,
             "image":"https://i.ibb.co/HVMtBqN/screencapture-lovely-biscuit-cca5e1-netlify-app-2023-10-25-12-56-19.png",
@@ -54,24 +56,6 @@
             "githubLink":"https://github.com/AmyPieterse/bmiCalculator.git",
             "Link":"https://lovely-biscuit-cca5e1.netlify.app/"
 
-        },
-        {
-            "id":3,
-            "image":"https://i.ibb.co/JRq2DhM/screencapture-localhost-8081-courses-2023-11-03-09-56-39.png",
-            "title":"Mathverse",
-            "description":"My capstone project is an online mathematics education platform that offers comprehensive learning from preschool to university. It integrates interactive lessons and a unique e-commerce system for course purchases. I've harnessed my passion for mathematics and technical skills to create a user-centric learning experience.",
-            "technologies":"HTML, CSS, Bootstrap, JavaScript",
-            "githubLink":"https://github.com/AmyPieterse/mathverse.git",
-            "Link":"https://capstone-3252d.web.app/"
-        },
-        {
-            "id":4,
-            "image":"https://i.ibb.co/HFW0rpJ/screencapture-fascinating-shortbread-d29972-netlify-app-2023-10-25-13-01-25.png",
-            "title":"To Do List",
-            "description":"I've created a dynamic to-do list application, enhancing productivity. It empowers users to organize tasks efficiently with a user-friendly interface.",
-            "technologies":"HTML, CSS, JavaScript",
-            "githubLink":"https://github.com/AmyPieterse/todoList.git",
-            "Link":"https://fascinating-shortbread-d29972.netlify.app/"
         }
     ],
     "testimonials":[
